@@ -5,3 +5,4 @@
 "Conte£do da Linha 2" 
 >>>>>>> feature-branch
 "Conte£do da Linha 2" 
+"Conte£do da Linha 3" 
