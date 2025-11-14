@@ -6,3 +6,6 @@
 >>>>>>> feature-branch
 "Conte£do da Linha 2" 
 "Conte£do da Linha 3" 
+
+
+Inclui esta nova Linha
